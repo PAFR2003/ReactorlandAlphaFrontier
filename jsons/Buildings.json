@@ -1,0 +1,39 @@
+[
+        {
+		"name": "Reaction Video Company",
+                "uniqueTo": "Reactorland",
+		"culture": 4,
+		"specialistSlots": { "Influencer": 4 },
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Virtual",
+			"Consumes [2] [Digital Storage Space]",
+			"[+1 Production] <in cities with a [Remote Fabricator]>"
+		],
+		"requiredTech": "Net Culture",
+		"civilopediaText": [
+			{
+				"text": "A place were you can react and throw opinions to various trends, ideas, items, people and anything up to date. This is also were the talent reactors live."
+			}
+		]
+	},
+        {
+		"name": "Channel 10",
+                "uniqueTo": "Reactorland",
+		"maintenance": 3,
+		"gold": 4,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arcade Room",
+		"requiredTech": "Hab-Domes",
+		"uniques": [
+			"[+2 Happiness] from [Luxury resource] tiles [in this city]",
+                        "Consumes [2] [Digital Storage Space]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Channel 10 is a home shopping channel dedicated for selling different stuff all around Reactorland. You can buy a large variety of items and things in this channel. (But please, don't make fun of the live seller, m'kay?)"
+			}
+		]
+	}
+]

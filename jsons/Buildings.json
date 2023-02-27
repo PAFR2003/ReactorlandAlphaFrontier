@@ -2,6 +2,7 @@
         {
 		"name": "Reaction Video Company",
                 "uniqueTo": "Reactorland",
+                "replaces": "Virtual Cultural Space",
 		"culture": 4,
 		"specialistSlots": { "Influencer": 4 },
 		"hurryCostModifier": 25,
@@ -20,6 +21,7 @@
         {
 		"name": "Channel 10",
                 "uniqueTo": "Reactorland",
+                "replaces": "Megamall",
 		"maintenance": 3,
 		"gold": 4,
 		"happiness": 2,
